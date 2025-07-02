@@ -1,0 +1,11 @@
+Lab01/data
+Lab01/dataCIFAR10
+Lab01/wandb
+Lab01/CAMimages
+
+Lab03/data
+Lab03/results
+Lab03/wandb
+Lab03/.ipynb_checkpoints
+
+.python-version
